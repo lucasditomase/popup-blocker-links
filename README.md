@@ -13,5 +13,5 @@ Eliminate aggressive popups, overlays, and interstitial scripts. Popup Blocker f
 • **GitHub**: Submit technical reports by [opening an issue](https://github.com/lucasditomase/popup-blocker-links/issues/new).  
 
 ### Legal
-• [Privacy Policy](https://github.com/lucasditomase/popup-blocker-links/blob/main/privacy-policy.md) 
-• [Terms and Conditions](https://github.com/lucasditomase/popup-blocker-links/blob/main/terms-of-service.md) 
+• [Privacy Policy](https://github.com/lucasditomase/popup-blocker-links/blob/main/privacy-policy.md).  
+• [Terms and Conditions](https://github.com/lucasditomase/popup-blocker-links/blob/main/terms-of-service.md).  
