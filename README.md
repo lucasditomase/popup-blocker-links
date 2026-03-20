@@ -9,8 +9,8 @@ Eliminate aggressive popups, overlays, and interstitial scripts. Popup Blocker f
 • **Swift 6 Core**: Maximum stability and system-level integration.  
   
 ### Support & Contact  
-• **In-App**: Contact me directly via the support section in the app settings.  
-• **GitHub**: Submit technical reports by [opening an issue](https://github.com/lucasditomase/popup-blocker-links/issues/new).  
+• **In-App**: Contact me directly through the Customer Support feature within the app.  
+• **GitHub**: Report bugs or share feedback by [opening an issue](https://github.com/lucasditomase/popup-blocker-links/issues/new).  
   
 ### Legal  
 • [Privacy Policy](https://github.com/lucasditomase/popup-blocker-links/blob/main/privacy-policy.md).  
